@@ -1,5 +1,3 @@
-![Profile Icon](https://via.placeholder.com/100) <!-- Replace this URL with your desired icon link -->
-
 # 👨‍💼 Hossam ElShawa
 
 **📍 Location:** Damietta, Egypt  
