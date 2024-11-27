@@ -22,7 +22,7 @@
   - **⭐ Grade:** Good
 
 ## 💼 Professional Experience
-- **📊 Data Analyst (Training)**  
+- **📊 Junior Data Analyst (#Excel #Power_Query #Power_Pivot #power_BI #SQl #Python)**  
   - 🗓️ *June 2024 to Present*
   
 - **📈 Head of Marketing at Damietta Cancer Institute**  
